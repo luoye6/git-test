@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("Hot - fix");
         System.out.println("Push test");
         System.out.println("Pull test");
+        System.out.println("Git hub");
     }
 }
