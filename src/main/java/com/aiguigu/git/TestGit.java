@@ -9,5 +9,6 @@ public class TestGit {
         System.out.println("master test");
         System.out.println("Hot - fix");
         System.out.println("Push test");
+        System.out.println("Pull test");
     }
 }
