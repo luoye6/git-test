@@ -7,5 +7,7 @@ public class TestGit {
         System.out.println("Hello Git 3");
         System.out.println("Hello Git 4");
         System.out.println("master test");
+        System.out.println("Hot - fix");
+
     }
 }
